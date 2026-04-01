@@ -1,1 +1,1 @@
-# chest-xray-detector
+# VinBigData Chest X-ray Detection
