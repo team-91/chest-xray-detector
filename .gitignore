@@ -1,0 +1,30 @@
+# venv
+venv/
+
+# data
+yolo_data/
+images.zip
+labels.zip
+
+# windows метаданные 
+*.Zone.Identifier
+
+# training outputs
+yolo_runs/
+yolo_predictions/
+
+# weights
+*.pt
+
+# jupyter
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks
+vinbigdata_yolo_detection_cleaned.ipynb
+
+# macOS
+.DS_Store
